@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/cohere-ai/cohere-security-toolkit/commit/fb385ad2b70c6379782088261d23eb97e6950317",
       "git:hexsha": "fb385ad2b70c6379782088261d23eb97e6950317",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }

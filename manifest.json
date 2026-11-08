@@ -1,0 +1,31 @@
+{
+  "manifest_version": "1.0",
+  "org": "cohere-ai",
+  "repo": "cohere-security-toolkit",
+  "versions": [
+    {
+      "commit": "fb385ad2b70c6379782088261d23eb97e6950317",
+      "parsed_at": "2026-11-08T09:10:53.314872+00:00",
+      "filetree": "filetree/fb385ad2b70c6379782088261d23eb97e6950317.nq.gz",
+      "blobs": [
+        "blob/fab2036c178fa68711757c26d4e30c549e2e80ec.nq.gz",
+        "blob/fffb5918edbf20be2a0324057e299b61ce36a711.nq.gz",
+        "blob/b4d6da604430d7a43163e5be86bf1e6a985e9f1f.nq.gz",
+        "blob/ddb4dd21a28bb7fa616d087f22d2d190091ecdde.nq.gz",
+        "blob/917dd92902d2694b05b8e3c76b5ab915b0333650.nq.gz",
+        "blob/7c0545d504c29208630662826dc8d6e0e733ecb9.nq.gz",
+        "blob/981eac31410aa62b2b7188cb3a40ca8e23ea8ae3.nq.gz",
+        "blob/28d3c48d4eca931d7894a4131cb0fc4c012e59dd.nq.gz",
+        "blob/25b23b21fbf61c33176c3b9a19aa61133fc2371b.nq.gz",
+        "blob/6ad8401ecd203edd4f252b576a5e65d8c935246d.nq.gz",
+        "blob/3cd54859daf7e2c13b64b234f3c38dbd64d008d8.nq.gz",
+        "blob/c0b2f194342d6eaa059f85cc3c79c3b8e08c681a.nq.gz",
+        "blob/7e2640417cb48c9818a8d858e50a419a090fa53c.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz"
+}
